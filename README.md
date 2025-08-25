@@ -1,0 +1,3 @@
+Project: Cancer Gene Prediction using Machine Learning
+
+In this project, I built a predictive model to classify whether a gene is cancer-related using genomic datasets. My role involved data preprocessing, feature engineering, and applying different models including Random Forest, SVM, KMeans clustering, and Neural Networks. After hyperparameter tuning and evaluation, the Neural Network model achieved 100% accuracy, precision, recall, and F1 score on the test dataset. This project not only demonstrated the effectiveness of deep learning in cancer gene prediction but also enhanced my skills in bioinformatics, data handling, and applied machine learning.
